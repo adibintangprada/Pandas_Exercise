@@ -26,7 +26,7 @@ These are the question for this exercise:
 * Present only the Shooting Accuracy from England, Italy and Russia
 
 ## Dataset
-The source of datasets for this exercise are from<br>
+The source of datasets for this exercise are from:<br>
 https://raw.githubusercontent.com/justmarkham/DAT8/master/data/chipotle.tsv<br>
 and<br>
 https://raw.githubusercontent.com/guipsamora/pandas_exercises/master/02_Filtering_%26_Sorting/Euro12/Euro_2012_stats_TEAM.csv
