@@ -1,4 +1,4 @@
-# Pandas_Exercise
+# Pandas Exercise
 This is Pandas Packages exercise (Selecting, Filtering, and Sorting). You can use it to sharpen your skill in Pandas.
 
 ## Overview
