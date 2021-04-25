@@ -1,5 +1,5 @@
 # Pandas_Exercise
-This is Pandas Packages exercise (Selecting &amp; Filtering). You can use it to sharpen your skill in Pandas.
+This is Pandas Packages exercise (Selecting, Filtering, and Sorting). You can use it to sharpen your skill in Pandas.
 
 ## Overview
 These are set of challenge that you can use to improve your skills in Selecting and Filtering data.
