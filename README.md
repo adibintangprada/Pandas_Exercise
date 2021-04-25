@@ -2,7 +2,7 @@
 This is Pandas Packages exercise (Selecting, Filtering, and Sorting). You can use it to sharpen your skill in Pandas.
 
 ## Overview
-These are set of challenge that you can use to improve your skills in Selecting and Filtering data.
+These are set of challenge that you can use to improve your skills in Selecting, Filtering, and Sorting data.
 
 ## Contents
 These are the question for this exercise:
